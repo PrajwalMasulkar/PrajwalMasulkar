@@ -103,5 +103,5 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk do
 
 ### DataScience Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrajwalMasulkar&repo=data&hide_border=true&theme=tokyonight)](https://github.com/PrajwalMasulkar/data)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrajwalMasulkar&repo=Project&hide_border=true&theme=tokyonight)](https://github.com/PrajwalMasulkar/Project)
 
