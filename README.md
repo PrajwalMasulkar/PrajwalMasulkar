@@ -100,7 +100,7 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk do
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrajwalMasulkar&repo=DX&hide_border=true&theme=tokyonight)](https://github.com/PrajwalMasulkar/DX)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrajwalMasulkar&repo=/portfolio-site-fleek&hide_border=true&theme=tokyonight)](https://github.com/PrajwalMasulkar//portfolio-site-fleek)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrajwalMasulkar&repo=portfolio-site-fleek&hide_border=true&theme=tokyonight)](https://github.com/PrajwalMasulkar//portfolio-site-fleek)
 
 ### DataScience Projects
 
