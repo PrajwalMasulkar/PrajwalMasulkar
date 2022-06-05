@@ -20,7 +20,7 @@
 
 ✉️ &nbsp;You can shoot me an email at prajwalmasulkar10@gmail.com! I'll try to respond as soon as I can.
 
-📄 &nbsp;Please have a look at my [Portfolio](https://github.com/PrajwalMasulkar/) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Portfolio](https://prajwal.on.fleek.co/) for more details about me. I'm open to feedback and suggestions!
 
 💻 Currently learning [React](https://reactjs.org/).
 
@@ -88,7 +88,7 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk do
 
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/PrajwalMasulkar">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PrajwalMasulkar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PrajwalMasulkar&layout=compact&langs_count=8&theme=algolia"/>
 </a>
