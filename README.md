@@ -99,11 +99,9 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk do
 ### Blockchain Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrajwalMasulkar&repo=DX&hide_border=true&theme=tokyonight)](https://github.com/PrajwalMasulkar/DX)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrajwalMasulkar&repo=portfolio-site-fleek&hide_border=true&theme=tokyonight)](https://github.com/PrajwalMasulkar//portfolio-site-fleek)
 
 ### DataScience Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrajwalMasulkar&repo=Project&hide_border=true&theme=tokyonight)](https://github.com/PrajwalMasulkar/Project)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrajwalMasulkar&repo=Sentiment-Analysis-heroku&hide_border=true&theme=tokyonight)](https://github.com/PrajwalMasulkar/Sentiment-Analysis-heroku)
