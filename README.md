@@ -32,7 +32,7 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk do
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   </a>
-        <a href="https://github.com/PrajwalMasulkar">
+        <a href="https://prajwal.on.fleek.co">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
   <a href="mailto:prajwalmasulkar10@gmail.com">
