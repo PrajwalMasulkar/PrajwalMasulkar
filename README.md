@@ -10,7 +10,7 @@
 📖 Currently Pursuing my Bachelor's in Data Science and Artificial Intelligence from [International Institute of Information Technology, Naya Raipur
 ](https://www.iiitnr.ac.in/).
 
-👨‍💻 Club Secretary at CipherCell, Infosec club of IIIT Naya Raipur.
+👨‍💻 Club Head at CipherCell, Infosec club of IIIT Naya Raipur.
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 
